@@ -1,4 +1,4 @@
-# Ansible Conditional Playbook - File Distribution
+# Ansible Conditional Playbook - File Distribution 
 
 ## Overview
 This playbook demonstrates the use of Ansible's `when` conditionals to distribute different files to specific servers based on their node names. It's designed for the Stratos DC infrastructure to train team members on Ansible conditional logic.
