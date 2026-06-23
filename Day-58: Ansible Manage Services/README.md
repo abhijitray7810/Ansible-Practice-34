@@ -6,7 +6,7 @@ This Ansible playbook automates the installation and configuration of Apache HTT
 
 ## Project Structure
 
-```
+``` 
 /home/thor/ansible/
 ├── inventory          # Ansible inventory file (pre-configured)
 ├── playbook.yml      # Main playbook for httpd deployment
