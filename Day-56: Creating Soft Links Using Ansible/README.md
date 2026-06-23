@@ -16,7 +16,7 @@ This Ansible playbook creates empty files with specific ownership and symbolic l
 ├── inventory          # Inventory file with server details
 ├── command.md         # Command reference guide
 └── ansible.cfg        # Ansible configuration (if present)
-```
+``` 
 
 ## 🖥️ Infrastructure Details
 
