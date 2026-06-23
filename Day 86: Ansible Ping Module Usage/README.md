@@ -3,7 +3,7 @@
 ## 📋 Project Overview
 
 This project documents the setup and configuration of password-less SSH connections between the Ansible controller (Jump Host) and managed nodes (App Servers) in the Stratos DC environment. The setup enables the Nautilus DevOps team to run Ansible playbooks seamlessly across different application servers.
-
+ 
 ## 🏗️ Architecture
 
 | Component | Host | IP Address | User | Description |
