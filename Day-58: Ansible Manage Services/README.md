@@ -14,7 +14,7 @@ This Ansible playbook automates the installation and configuration of Apache HTT
 ```
 
 ## Prerequisites
-
+ 
 - Ansible installed on the jump host
 - SSH access configured from jump host to all app servers
 - User `thor` has sudo privileges on target servers
