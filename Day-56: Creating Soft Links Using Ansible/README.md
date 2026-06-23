@@ -1,4 +1,4 @@
-# Ansible Symbolic Links Playbook
+# Ansible Symbolic Links Playbook 
 
 ## 📋 Overview
 This Ansible playbook creates empty files with specific ownership and symbolic links on all app servers in the Nautilus infrastructure.
