@@ -1,6 +1,6 @@
 # Ansible HTTPD Installation and Configuration
 
-## Overview
+## Overview 
 
 This Ansible playbook automates the installation and configuration of Apache HTTP Server (httpd) on application servers in the Stratos Data Center. The playbook ensures httpd is installed, started, and enabled to run on system boot across all app servers.
 
