@@ -3,7 +3,7 @@
 This repository contains a collection of hands-on exercises and mini-projects focused on learning and practicing **Ansible automation**. Each folder represents a daily task or concept, covering core modules, playbooks, and real-world scenarios.
 
 ---
-
+ 
 ## 📚 Contents
 
 The repository is organized by day-wise practice:
