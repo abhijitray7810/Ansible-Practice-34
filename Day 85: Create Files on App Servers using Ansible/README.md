@@ -1,5 +1,5 @@
 # Ansible File Creation on Stratos DC App Servers
-
+ 
 ## Overview
 
 This project contains Ansible automation scripts for the Nautilus DevOps team to create and manage files on remote app servers in the Stratos Data Center. The playbook creates a file with specific permissions and ownership on multiple servers simultaneously.
