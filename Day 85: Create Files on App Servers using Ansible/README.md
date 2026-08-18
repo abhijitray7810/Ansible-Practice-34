@@ -36,7 +36,7 @@ The playbook performs the following operations on all app servers:
 
 ### Step 1: Create the Inventory File
 
-```bash
+```bash 
 cat > ~/playbook/inventory << 'EOF'
 [appservers]
 stapp01 ansible_host=172.16.238.10 ansible_user=ansible ansible_password=ansible file_owner=tony
