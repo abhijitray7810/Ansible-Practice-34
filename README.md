@@ -9,7 +9,7 @@ This repository contains a collection of hands-on exercises and mini-projects fo
 The repository is organized by day-wise practice:
 
 ### 🔹 Beginner to Intermediate Tasks
-
+ 
 * **Day 48–53**: Basic problem-solving and foundational concepts
 * **Day 54**: Using Ansible Unarchive Module
 * **Day 55**: Blockinfile Module
