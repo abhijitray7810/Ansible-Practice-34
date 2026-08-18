@@ -20,7 +20,7 @@ The repository is organized by day-wise practice:
 * **Day 60**: Replace Module
 * **Day 61**: Facts Gathering
 * **Day 62**: Creating Users and Groups
-
+ 
 ### 🔹 Advanced Tasks
 
 * **Day 63**: Jinja2 Templates
