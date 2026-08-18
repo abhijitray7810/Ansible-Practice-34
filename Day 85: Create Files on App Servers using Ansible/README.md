@@ -1,4 +1,4 @@
-# Ansible File Creation on Stratos DC App Servers
+# Ansible File Creation on Stratos DC App Servers 
  
 ## Overview
 
