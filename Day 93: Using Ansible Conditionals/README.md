@@ -1,4 +1,4 @@
-# Ansible Conditional Playbook - File Distribution
+# Ansible Conditional Playbook - File Distribution 
 
 ## Overview
 This playbook demonstrates the use of Ansible conditional statements (`when`) to distribute different files to different application servers based on their hostnames. It's designed for the Stratos DC environment with three app servers.
