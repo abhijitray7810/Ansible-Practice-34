@@ -4,7 +4,7 @@
 This Ansible playbook creates empty files with specific ownership and symbolic links on all app servers in the Nautilus infrastructure.
 
 ## 🎯 Objectives
-- Create `/opt/itadmin/` directory on all app servers
+- Create `/opt/itadmin/` directory on all app servers 
 - Create specific empty files with designated owners on each server
 - Create symbolic links from `/opt/itadmin` to `/var/www/html`
 
