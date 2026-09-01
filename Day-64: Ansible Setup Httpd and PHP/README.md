@@ -1,4 +1,4 @@
-# Apache and PHP Setup with Ansible
+# Apache and PHP Setup with Ansible 
 
 This playbook automates the installation and configuration of Apache (httpd) and PHP on App Server 1 in the Stratos Datacenter.
 
