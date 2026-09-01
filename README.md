@@ -4,7 +4,7 @@ This repository contains a collection of hands-on exercises and mini-projects fo
 
 ---
  
-## 📚 Contents
+## 📚 Contents 
 
 The repository is organized by day-wise practice:
 
