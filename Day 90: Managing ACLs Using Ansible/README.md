@@ -1,6 +1,6 @@
 # Ansible ACL Configuration Playbook 
 
-## Overview
+## Overview 
 This playbook configures files with specific ACL (Access Control List) permissions across multiple app servers in the Stratos DC environment. Files are owned by root but have additional permissions granted to specific users and groups via ACLs.
 
 ## Playbook Execution Results
