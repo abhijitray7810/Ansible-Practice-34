@@ -8,7 +8,7 @@ This Ansible playbook performs text replacement operations across three app serv
 /home/thor/ansible/
 ├── inventory
 ├── playbook.yml
-└── README.md
+└── README.md 
 ```
 
 ## Prerequisites
