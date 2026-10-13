@@ -2,7 +2,7 @@
 
 ## Overview
 This Ansible playbook performs text replacement operations across three app servers in the Stratos DC environment. It uses the `replace` module to update specific strings in finance-related text files.
-
+ 
 ## Directory Structure
 ```
 /home/thor/ansible/
