@@ -1,6 +1,6 @@
 # Ansible Inventory Configuration for App Server 2
 
-## Overview
+## Overview 
 This README documents the Ansible inventory file configuration for App Server 2 (stapp02) in the Stratos DC environment, created for the Nautilus DevOps team's playbook testing.
 
 ## Inventory File Location
